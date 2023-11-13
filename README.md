@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llav3ji2019&label=Profile%20views&color=0e75b6&style=flat" alt="llav3ji2019" /> </p>
 
-- 🔭 I’m currently working on **Smile**
-
 - 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **pavelemelyanov03@mail.ru**
